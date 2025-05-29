@@ -7,9 +7,9 @@
 
 <h2>Hola! Mi nombre es Cristian Mansilla</h2>
 
-<h2>¿Quien soy?<h2>
+<h2>¿Quien soy?</h2>
 
-  <p>Programador fullstack con orientacion en back-end, amante del cafe y la buena música. Llevo un vida activa y disciplinada con muchas ganas de aprender y crecer profesionalmente en el mundo IT. A dia de hoy continuo sumando conocimientos sobre lenguajes de programación, desarrollo web y gestión de bases de datos, sumando nuevos conocimientos y tecnologias en el proceso.</p> 
+  <p>Programador fullstack con orientacion en back-end, amante del cafe y la buena música. Llevo un vida activa y disciplinada con muchas ganas de aprender y crecer profesionalmente en el mundo IT. A dia de hoy continuo sumando conocimientos sobre lenguajes de programación, desarrollo web y gestión de bases de datos, adquiriendo nuevos conocimientos y tecnologias en el proceso.</p> 
 
 <h2>¿Que hago?</h2>
 
@@ -17,7 +17,7 @@
 
 <h2>¿Aquien me dirijo?</h2>
 
-  <p>Mi objetivo es sumarme a un equipo de trabajo de una empresa startup y contribuir como desarrollador, creando buenas relaciones y sumando experiencia.<p>
+  <p>Mi objetivo es sumarme a un equipo de trabajo de una empresa startup y contribuir como desarrollador, creando buenas relaciones y sumando experiencia.</p>
 
 <h2>¿Que tecnologias uso?</h2>
 
