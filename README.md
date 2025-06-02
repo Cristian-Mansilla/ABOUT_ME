@@ -34,7 +34,7 @@
   
 <p>Back-end:</p>
 <ul>
-  <a stile='background-color:white' href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2699/PNG/512/nestjs_logo_icon_168087.png" alt="nestjs" width="40" height="40"/> </a> 
+  <a style='background-color:white' href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2699/PNG/512/nestjs_logo_icon_168087.png" alt="nestjs" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
