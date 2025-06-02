@@ -1,6 +1,6 @@
 <h3 align="center">Apacionado desarrollador back-end Jr. Argentino🧉</h3>
 
-<h2>Hola! Mi nombre es Cristian Mansilla</h2>
+<h2 aling="center">Hola! Mi nombre es Cristian Mansilla</h2>
 
 <h2>¿Quien soy?</h2>
 
