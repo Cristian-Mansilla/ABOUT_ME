@@ -53,5 +53,5 @@
 
 <h3 align="left">Contacto:</h3>
 
-<p aling="center">Telefono:3541229634</p>
-<p aling="center">Correo: cristian-mansilla@live.com.ar</p>
+<p aling="center">📞Telefono: 3541229634</p>
+<p aling="center">📧Correo: cristian-mansilla@live.com.ar</p>
