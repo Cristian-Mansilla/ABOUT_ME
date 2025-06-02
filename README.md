@@ -1,41 +1,6 @@
-<!DOCTYPE html>
-<html lang= "es">
-<head>
-    <meta charset="UTF-8">
-    <style>
-        body {
-      background-color: white;
-      color: black;
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 20px;
-    }
-
-    h2, h3 {
-      color: #222;
-    }
-
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-
-    a img {
-      margin-right: 10px;
-    }
-
-    p {
-      max-width: 800px;
-    }
-    </style>
-</head>
-<body>
-<h3 align="center">Apacionado desarrollador back-end Argentino🧉</h3>
+<h3 align="center">Apacionado desarrollador back-end Jr. Argentino🧉</h3>
 
 <h3 align="left">Contacto:</h3>
-<p align="left">
-  
-</p>
 
 <h2>Hola! Mi nombre es Cristian Mansilla</h2>
 
@@ -87,4 +52,3 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
 </ul>
-</body>
