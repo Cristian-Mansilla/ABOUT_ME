@@ -1,3 +1,4 @@
+<head>
 <style>
     body {
       background-color: white;
@@ -24,7 +25,8 @@
       max-width: 800px;
     }
 </style>
-
+</head>
+<body>
 <h3 align="center">Apacionado desarrollador back-end Argentino🧉</h3>
 
 <h3 align="left">Contacto:</h3>
@@ -82,3 +84,4 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
 </ul>
+</body>
