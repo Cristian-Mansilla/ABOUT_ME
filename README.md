@@ -1,6 +1,9 @@
+<!DOCTYPE html>
+<html lang= "es">
 <head>
-<style>
-    body {
+    <meta charset="UTF-8">
+    <style>
+        body {
       background-color: white;
       color: black;
       font-family: Arial, sans-serif;
@@ -24,7 +27,7 @@
     p {
       max-width: 800px;
     }
-</style>
+    </style>
 </head>
 <body>
 <h3 align="center">Apacionado desarrollador back-end Argentino🧉</h3>
