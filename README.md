@@ -9,11 +9,11 @@
 
 <h2>¿Quien soy?</h2>
 
-  <p>Programador fullstack con orientacion en back-end, amante del cafe y la buena música. Llevo un vida activa y disciplinada con muchas ganas de aprender y crecer profesionalmente en el mundo IT. A dia de hoy continuo sumando conocimientos sobre lenguajes de programación, desarrollo web y gestión de bases de datos, adquiriendo nuevos conocimientos y tecnologias en el proceso.</p> 
+  <p>Analista en sistemas y programador fullstack Jr. con orientacion en back-end, amante del cafe y la buena música. Llevo un vida activa y disciplinada con muchas ganas de aprender y crecer tanto en lo personal como en lo profesional. A dia de hoy continuo sumando conocimientos sobre lenguajes de programación, desarrollo web y gestión de bases de datos, adquiriendo nuevos conocimientos y tecnologias en el proceso.</p> 
 
 <h2>¿Que hago?</h2>
 
-  <p>Actualmente me encuentro perfeccionando mi codigo mediante la creacion de proyectos y nuevos bugs que me permitan avanzar como desarrollador desfrutando de un proceso que puede resultar desafiante pero igual de gratificante.</p>
+  <p>Actualmente me encuentro perfeccionando mi codigo mediante la creacion de proyectos que me permitan avanzar como desarrollador disfrutando de un proceso que puede resultar desafiante pero igual de gratificante.</p>
 
 <h2>¿Aquien me dirijo?</h2>
 
