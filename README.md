@@ -55,4 +55,4 @@
 
 <p aling="center">📞Telefono: 3541229634</p>
 <p aling="center">📧Correo: cristian-mansilla@live.com.ar</p>
-<p aling="center"> <img src="https://icon-icons.com/es/icono/linkedin-red-social/65929"></img> Linkedin: <a href="www.linkedin.com/in/cristian-gerardo-mansilla-07bb542b7">www.linkedin.com/in/cristian-gerardo-mansilla-07bb542b7</a></p>
+<p aling="center"> <img src="https://icon-icons.com/es/icono/linkedin-red-social/65929"></img> Linkedin: <a href="https://icon-icons.com/es/icono/linkedin-red-social/65929">www.linkedin.com/in/cristian-gerardo-mansilla-07bb542b7</a></p>
