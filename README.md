@@ -1,7 +1,5 @@
 <h3 align="center">Apacionado desarrollador back-end Jr. Argentino🧉</h3>
 
-<h3 align="left">Contacto:</h3>
-
 <h2>Hola! Mi nombre es Cristian Mansilla</h2>
 
 <h2>¿Quien soy?</h2>
@@ -52,3 +50,8 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
 </ul>
+
+<h3 align="left">Contacto:</h3>
+
+<p aling="center">Telefono:3541229634</p>
+<p aling="center">Correo: cristian-mansilla@live.com.ar</p>
