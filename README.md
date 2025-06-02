@@ -1,3 +1,30 @@
+<style>
+    body {
+      background-color: white;
+      color: black;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+    }
+
+    h2, h3 {
+      color: #222;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    a img {
+      margin-right: 10px;
+    }
+
+    p {
+      max-width: 800px;
+    }
+</style>
+
 <h3 align="center">Apacionado desarrollador back-end Argentino🧉</h3>
 
 <h3 align="left">Contacto:</h3>
@@ -35,7 +62,7 @@
 <p>Back-end:</p>
 <ul>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2699/PNG/512/nestjs_logo_icon_168087.png" alt="nestjs" width="40" height="40"/> </a> 
-  <a style="background-color:white" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
